@@ -26,7 +26,7 @@ int main(){
                 if (b != 0) {
                     cout << a / b << endl;
                 } else {
-                    cout << "Cannot divide by zero" << endl;
+                   cout << "Cannot divide by zero" << endl;
                 }
                 break;
     
