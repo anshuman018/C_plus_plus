@@ -28,8 +28,7 @@ int main()
         i++;
     }
 
-    // Print the inverted pyramid
-    i = n - 1; // reset i for the inverted pyramid
+    i = n - 1;
     while (i >= 1)
     {
         int space = 1;
