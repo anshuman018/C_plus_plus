@@ -1,4 +1,4 @@
-//Code to check if the the input is small, capital alphabet or any other character.
+
 #include <iostream>
 using namespace std;
 int main() {
