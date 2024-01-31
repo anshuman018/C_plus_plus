@@ -5,12 +5,12 @@ int main()
 {
     int n;
     cin >> n;
-    int i = 0;
+    int i = 1;
 
-    while (i * i < n)
+    while (i * i <= n)
     {
-        i++;
+        ++i;
     }
-    cout << i;
+    cout << i-1;
     return 0;
 }
